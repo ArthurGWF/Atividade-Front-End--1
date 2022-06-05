@@ -1,0 +1,80 @@
+body{
+    overflow: hidden;
+}
+#quadrado{
+    position: relative;
+    margin: 20px;
+    left:60em;
+    width: 58.25em;
+    height: 43em;
+    top: -10em;
+    background-color: #6495ED	;
+}
+
+ a{
+     position: relative;
+     top: -35em;
+     left: 40.5em;
+     padding: 10px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+ }
+
+ h1{
+     position: relative;
+     top: -22.5em;
+     left: 11.4em;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #principal{
+    position: relative;
+    top: -44em;
+    left: 35em;
+    
+ }
+
+ #frase{
+     position: relative;
+     top: -19.5em;
+     font-size: 60px;
+     left: 6em;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     font-weight: 500em;
+ }
+
+ #ola{
+    position: relative;
+    top: -85em;
+    font-size: 20px;
+    left: 26em;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0075f6;
+ }
+
+ span{
+     position: relative;
+    color: #0075f6;
+ }
+
+ #final{
+    font-family: Arial, Helvetica, sans-serif;
+     position: relative;
+     top: -38em;
+     font-size: 30px;
+     left: 12em;
+ }
+
+ #hire{
+     position: relative;
+     top: -55em;
+     left: 17.6em;
+     bordeR: 1px solid #0075f6;
+     color: #0075f6;
+     transition: .3s all ease;
+ }
